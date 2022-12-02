@@ -6,3 +6,8 @@
 
 --->
 # xfceconfigs
+# ArcoLinux Phase 1
+* XFCE
+  Conky
+  Panel Pref
+                     
