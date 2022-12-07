@@ -1,0 +1,10 @@
+## PERSONAL ##
+#aliases
+
+# update mirrors
+alias mirrorx="sudo reflector --country us --age 6 --latest 20 --fastest 20 --threads 20 --sort rate --protocol https --save /etc/pacman.d/mirrorlist"
+
+# file copying
+alias cpper="sudo cp -af ~/.config/ /personal/"
+alias cpgit="cp -af ~/.config/* ~/data/niravsheth-arch-git/xfceconfigs/config/"
+alias cpbashgit="cp ~/.bashrc-personal ~/data/niravsheth-arch-git/xfceconfigs/config/"
