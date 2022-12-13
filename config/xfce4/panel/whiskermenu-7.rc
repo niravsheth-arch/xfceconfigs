@@ -1,5 +1,5 @@
-favorites=archlinux-tweak-tool.desktop,firefox.desktop,thunar.desktop,conkyzen.desktop,org.gnome.DiskUtility.desktop,org.gnome.baobab.desktop,org.gnome.Meld.desktop,grsync.desktop,stacer.desktop,gitahead.desktop,sublime_text.desktop
-recent=xfce-session-settings.desktop,xfce-settings-manager.desktop,archlinux-betterlockscreen.desktop,thunar.desktop,xfce-wmtweaks-settings.desktop,xfce-mouse-settings.desktop,xfce-keyboard-settings.desktop,mintstick.desktop,xfce-workspaces-settings.desktop,org.gnome.Meld.desktop,sublime_text.desktop,archlinux-tweak-tool.desktop,thunar-settings.desktop,ca.desrt.dconf-editor.desktop,org.gnome.Logs.desktop
+favorites=archlinux-tweak-tool.desktop,firefox.desktop,thunar.desktop,conkyzen.desktop,org.gnome.DiskUtility.desktop,org.gnome.baobab.desktop,org.gnome.Meld.desktop,grsync.desktop,stacer.desktop,gitahead.desktop,geany.desktop
+recent=plank.desktop,xfce-settings-manager.desktop,nm-connection-editor.desktop,pavucontrol.desktop,org.gnome.Logs.desktop,xfce4-session-logout.desktop,org.gnome.DiskUtility.desktop,geany.desktop,Alacritty.desktop,grub-customizer.desktop,xfce-keyboard-settings.desktop,org.flameshot.Flameshot.desktop,org.gnome.FontManager.desktop,vim.desktop,org.manjaro.pamac.manager.desktop
 button-title=ArcoLinux\ \ 
 button-icon=start-here-arcolinux
 button-single-row=false

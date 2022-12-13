@@ -1,6 +1,6 @@
 delay=1
-region=1
-action=1
+region=3
+action=4
 show_mouse=0
 title=ArcoLinux
 timestamp=TRUE
@@ -11,4 +11,5 @@ last_extension=png
 screenshot_dir=file:///home/arcolarge/Pictures
 enable_imgur_upload=true
 show_in_folder=false
+show_border=1
 

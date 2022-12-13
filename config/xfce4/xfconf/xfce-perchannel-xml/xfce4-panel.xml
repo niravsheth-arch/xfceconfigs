@@ -57,6 +57,19 @@
     </property>
     <property name="plugin-6" type="string" value="systray">
       <property name="known-items" type="array">
+        <value type="string" value="dropbox-client-1879"/>
+        <value type="string" value="dropbox-client-1621"/>
+        <value type="string" value="dropbox-client-2035"/>
+        <value type="string" value="dropbox-client-1892"/>
+        <value type="string" value="dropbox-client-1859"/>
+        <value type="string" value="dropbox-client-1882"/>
+        <value type="string" value="dropbox-client-1607"/>
+        <value type="string" value="flameshot"/>
+        <value type="string" value="dropbox-client-1573"/>
+        <value type="string" value="dropbox-client-1866"/>
+        <value type="string" value="dropbox-client-1608"/>
+        <value type="string" value="dropbox-client-1569"/>
+        <value type="string" value="dropbox-client-1609"/>
         <value type="string" value="dropbox-client-1654"/>
         <value type="string" value="dropbox-client-1818"/>
         <value type="string" value="dropbox-client-1738"/>
@@ -68,6 +81,8 @@
         <value type="string" value="variety"/>
       </property>
       <property name="known-legacy-items" type="array">
+        <value type="string" value="notes"/>
+        <value type="string" value="clipman"/>
         <value type="string" value="variety"/>
         <value type="string" value="dropbox"/>
         <value type="string" value="ethernet network connection “wired connection 1” active"/>

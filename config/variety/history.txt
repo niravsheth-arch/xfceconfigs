@@ -1,4 +1,30 @@
 0
+/home/arcolarge/Dropbox/Apps/wallpapers/downloaded/Downloaded by Variety/wallhaven_abstract/wallhaven-r0wy7n.jpg
+/home/arcolarge/Dropbox/Apps/wallpapers/downloaded/Downloaded by Variety/wallhaven_abstract/wallhaven-1j9o7v.jpg
+/home/arcolarge/Dropbox/Apps/wallpapers/downloaded/Downloaded by Variety/wallhaven_abstract/wallhaven-4odqgm.jpg
+/home/arcolarge/Dropbox/Apps/wallpapers/downloaded/Downloaded by Variety/wallhaven_abstract/wallhaven-3zpzrv.jpg
+/home/arcolarge/Dropbox/Apps/wallpapers/downloaded/Downloaded by Variety/wallhaven_abstract/wallhaven-l3wg12.jpg
+/home/arcolarge/Dropbox/Apps/wallpapers/downloaded/Downloaded by Variety/wallhaven_abstract/wallhaven-k7d68d.png
+/home/arcolarge/Dropbox/Apps/wallpapers/downloaded/Downloaded by Variety/wallhaven_abstract/wallhaven-4lvwdp.png
+/home/arcolarge/Dropbox/Apps/wallpapers/downloaded/Downloaded by Variety/wallhaven_abstract/wallhaven-48jkgy.jpg
+/home/arcolarge/Dropbox/Apps/wallpapers/downloaded/Downloaded by Variety/wallhaven_abstract/wallhaven-4929xk.png
+/home/arcolarge/Dropbox/Apps/wallpapers/downloaded/Downloaded by Variety/wallhaven_abstract/wallhaven-3zpzrv.jpg
+/home/arcolarge/Dropbox/Apps/wallpapers/downloaded/Downloaded by Variety/wallhaven_abstract/wallhaven-0pzmrj.jpg
+/home/arcolarge/Dropbox/Apps/wallpapers/downloaded/Downloaded by Variety/wallhaven_abstract/wallhaven-g86exd.jpg
+/home/arcolarge/Dropbox/Apps/wallpapers/downloaded/Downloaded by Variety/wallhaven_abstract/wallhaven-9mprjw.jpg
+/home/arcolarge/Dropbox/Apps/wallpapers/downloaded/Downloaded by Variety/wallhaven_abstract/wallhaven-49djyk.jpg
+/home/arcolarge/Dropbox/Apps/wallpapers/downloaded/Downloaded by Variety/wallhaven_abstract/wallhaven-n68xe7.jpg
+/home/arcolarge/Dropbox/Apps/wallpapers/downloaded/Downloaded by Variety/wallhaven_abstract/wallhaven-4x97eo.jpg
+/home/arcolarge/Dropbox/Apps/wallpapers/downloaded/Downloaded by Variety/wallhaven_abstract/wallhaven-vg8mjp.png
+/home/arcolarge/Dropbox/Apps/wallpapers/downloaded/Downloaded by Variety/wallhaven_abstract/wallhaven-r22xrq.jpg
+/home/arcolarge/Dropbox/Apps/wallpapers/downloaded/Downloaded by Variety/wallhaven_abstract/wallhaven-y866vx.jpg
+/home/arcolarge/Dropbox/Apps/wallpapers/downloaded/Downloaded by Variety/wallhaven_abstract/wallhaven-39exm3.jpg
+/home/arcolarge/Dropbox/Apps/wallpapers/downloaded/Downloaded by Variety/wallhaven_abstract/wallhaven-73xqxe.jpg
+/home/arcolarge/Dropbox/Apps/wallpapers/downloaded/Downloaded by Variety/wallhaven_abstract/wallhaven-l35myl.jpg
+/home/arcolarge/Dropbox/Apps/wallpapers/downloaded/Downloaded by Variety/wallhaven_abstract/wallhaven-p8j56e.jpg
+/home/arcolarge/Dropbox/Apps/wallpapers/downloaded/Downloaded by Variety/wallhaven_abstract/wallhaven-y8q6l7.jpg
+/home/arcolarge/Dropbox/Apps/wallpapers/downloaded/Downloaded by Variety/wallhaven_abstract/wallhaven-oxe717.jpg
+/home/arcolarge/Dropbox/Apps/wallpapers/downloaded/Downloaded by Variety/wallhaven_abstract/wallhaven-4y65k0.png
 /home/arcolarge/.config/variety/Downloaded/wallhaven_abstract/wallhaven-mdd69k.jpg
 /home/arcolarge/.config/variety/Downloaded/wallhaven_abstract/wallhaven-1353qg.png
 /home/arcolarge/.config/variety/Downloaded/wallhaven_abstract/wallhaven-zm9ozj.jpg
@@ -25,28 +51,6 @@
 /home/arcolarge/.config/variety/Downloaded/wallhaven_abstract/wallhaven-odz1gp.jpg
 /home/arcolarge/.config/variety/Downloaded/wallhaven_abstract/wallhaven-q6povd.jpg
 /home/arcolarge/.config/variety/Downloaded/wallhaven_abstract/wallhaven-l329jr.jpg
-/home/arcolarge/Dropbox/Apps/wallpapers/background16.jpg
-/home/arcolarge/Dropbox/Apps/wallpapers/background49.jpg
-/home/arcolarge/Dropbox/Apps/wallpapers/background53.jpg
-/home/arcolarge/Dropbox/Apps/wallpapers/background62.jpg
-/home/arcolarge/Dropbox/Apps/wallpapers/background51.jpg
-/home/arcolarge/Dropbox/Apps/wallpapers/background60.jpg
-/home/arcolarge/Dropbox/Apps/wallpapers/background51.jpg
-/home/arcolarge/Dropbox/Apps/wallpapers/background40.jpg
-/home/arcolarge/Dropbox/Apps/wallpapers/background52.jpg
-/home/arcolarge/Dropbox/Apps/wallpapers/background56.jpg
-/home/arcolarge/Dropbox/Apps/wallpapers/background06.jpg
-/home/arcolarge/Dropbox/Apps/wallpapers/background05.jpg
-/home/arcolarge/Dropbox/Apps/wallpapers/background38.jpg
-/home/arcolarge/Dropbox/Apps/wallpapers/background57.jpg
-/home/arcolarge/Dropbox/Apps/wallpapers/background47.jpg
-/home/arcolarge/Dropbox/Apps/wallpapers/background46.jpg
-/home/arcolarge/Dropbox/Apps/wallpapers/background32.jpg
-/home/arcolarge/Dropbox/Apps/wallpapers/att-04.jpg
-/home/arcolarge/Dropbox/Apps/wallpapers/background62.jpg
-/home/arcolarge/Dropbox/Apps/wallpapers/background28.jpg
-/home/arcolarge/Dropbox/Apps/wallpapers/background11.jpg
-/home/arcolarge/Dropbox/Apps/wallpapers/att-03.jpg
 /usr/share/backgrounds/archlinux-login-backgrounds/background31.jpg
 /usr/share/backgrounds/archlinux-login-backgrounds/background20.jpg
 /usr/share/backgrounds/archlinux-login-backgrounds/background03.jpg
