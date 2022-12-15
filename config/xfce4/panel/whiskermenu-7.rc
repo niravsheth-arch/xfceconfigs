@@ -1,12 +1,12 @@
-favorites=archlinux-tweak-tool.desktop,firefox.desktop,thunar.desktop,conkyzen.desktop,org.gnome.DiskUtility.desktop,org.gnome.baobab.desktop,org.gnome.Meld.desktop,grsync.desktop,stacer.desktop,gitahead.desktop,geany.desktop
-recent=plank.desktop,xfce-settings-manager.desktop,nm-connection-editor.desktop,pavucontrol.desktop,org.gnome.Logs.desktop,xfce4-session-logout.desktop,org.gnome.DiskUtility.desktop,geany.desktop,Alacritty.desktop,grub-customizer.desktop,xfce-keyboard-settings.desktop,org.flameshot.Flameshot.desktop,org.gnome.FontManager.desktop,vim.desktop,org.manjaro.pamac.manager.desktop
+favorites=archlinux-tweak-tool.desktop,firefox.desktop,thunar.desktop,conkyzen.desktop,org.gnome.DiskUtility.desktop,org.gnome.baobab.desktop,grsync.desktop,stacer.desktop,gitahead.desktop,geany.desktop,org.gnome.Meld.desktop
+recent=org.gnome.Meld.desktop,variety.desktop,org.gnome.DiskUtility.desktop,org.manjaro.pamac.manager.desktop,plank.desktop,xfce-settings-manager.desktop,nm-connection-editor.desktop,pavucontrol.desktop,org.gnome.Logs.desktop,xfce4-session-logout.desktop,geany.desktop,Alacritty.desktop,grub-customizer.desktop,xfce-keyboard-settings.desktop,org.flameshot.Flameshot.desktop
 button-title=ArcoLinux\ \ 
 button-icon=start-here-arcolinux
 button-single-row=false
 show-button-title=false
 show-button-icon=true
 launcher-show-name=true
-launcher-show-description=true
+launcher-show-description=false
 launcher-show-tooltip=true
 launcher-icon-size=2
 hover-switch-category=true

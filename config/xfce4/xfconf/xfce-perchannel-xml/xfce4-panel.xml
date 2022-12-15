@@ -57,6 +57,11 @@
     </property>
     <property name="plugin-6" type="string" value="systray">
       <property name="known-items" type="array">
+        <value type="string" value="dropbox-client-19296"/>
+        <value type="string" value="dropbox-client-676"/>
+        <value type="string" value="dropbox-client-677"/>
+        <value type="string" value="dropbox-client-682"/>
+        <value type="string" value="dropbox-client-1068"/>
         <value type="string" value="dropbox-client-1879"/>
         <value type="string" value="dropbox-client-1621"/>
         <value type="string" value="dropbox-client-2035"/>

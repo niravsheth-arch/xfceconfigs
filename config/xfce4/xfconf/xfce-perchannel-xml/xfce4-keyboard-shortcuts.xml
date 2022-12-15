@@ -65,20 +65,12 @@
       <property name="&lt;Super&gt;v" type="string" value="pavucontrol"/>
       <property name="&lt;Primary&gt;&lt;Alt&gt;u" type="string" value="pavucontrol"/>
       <property name="&lt;Super&gt;Escape" type="string" value="xkill"/>
-      <property name="&lt;Shift&gt;&lt;Super&gt;Return" type="string" value="thunar"/>
       <property name="&lt;Super&gt;F1" type="string" value="exo-open --launch webbrowser"/>
-      <property name="&lt;Super&gt;F2" type="string" value="atom"/>
-      <property name="&lt;Super&gt;F3" type="string" value="inkscape"/>
-      <property name="&lt;Super&gt;F4" type="string" value="gimp"/>
       <property name="&lt;Super&gt;F5" type="string" value="meld"/>
       <property name="&lt;Super&gt;F6" type="string" value="vlc"/>
       <property name="&lt;Super&gt;F7" type="string" value="virtualbox"/>
-      <property name="&lt;Super&gt;F8" type="string" value="thunar"/>
-      <property name="&lt;Super&gt;F9" type="string" value="evolution"/>
-      <property name="&lt;Super&gt;F10" type="string" value="spotify"/>
       <property name="&lt;Primary&gt;&lt;Alt&gt;a" type="string" value="xfce4-appfinder"/>
       <property name="&lt;Primary&gt;&lt;Alt&gt;v" type="string" value="vivaldi-stable"/>
-      <property name="&lt;Primary&gt;&lt;Alt&gt;b" type="string" value="thunar"/>
       <property name="&lt;Primary&gt;&lt;Alt&gt;s" type="string" value="spotify"/>
       <property name="&lt;Primary&gt;&lt;Alt&gt;c" type="string" value="catfish"/>
       <property name="&lt;Primary&gt;&lt;Alt&gt;g" type="string" value="chromium"/>
@@ -110,6 +102,7 @@
       <property name="&lt;Primary&gt;&lt;Super&gt;Print" type="string" value="flameshot gui"/>
       <property name="&lt;Super&gt;Return" type="string" value="urxvt"/>
       <property name="&lt;Super&gt;t" type="string" value="alacritty"/>
+      <property name="&lt;Primary&gt;&lt;Alt&gt;t" type="string" value="alacritty"/>
     </property>
   </property>
   <property name="xfwm4" type="empty">
