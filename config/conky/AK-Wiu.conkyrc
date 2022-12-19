@@ -109,6 +109,7 @@ ${hr 2}
 ${font StyleBats:Bold:size=16}K${font} Kernel: ${alignr}${kernel}
 ${font StyleBats:Bold:size=16}A${font} CPU 1: ${cpu cpu1}% ${alignr}${cpubar cpu1 8,60}
 ${font StyleBats:Bold:size=16}A${font} CPU 2: ${cpu cpu2}% ${alignr}${cpubar cpu2 8,60}
+${font StyleBats:Bold:size=16}A${font} CPU 3: ${cpu cpu3}% ${alignr}${cpubar cpu3 8,60}
 ${font StyleBats:Bold:size=16}g${font} RAM: $mem $memperc% ${alignr}${membar 8,60}
 ${font StyleBats:Bold:size=16}j${font} SWAP: $swap $swapperc% ${alignr}${swapbar 8,60}
 ${font Webdings:Bold:size=16}~${font}Battery: ${battery_percent BAT0}% ${alignr}${battery_bar 8,60 BAT0}
