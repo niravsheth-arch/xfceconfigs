@@ -1,6 +1,6 @@
 --->
 # xfceconfigs
-# ArcoLinuxL Phase 1
+# ArcoLinuxB
 12-01-2022
-  * Conky
-  * Panel Pref
+
+For learning and saving configs
