@@ -1,5 +1,5 @@
 favorites=archlinux-tweak-tool.desktop,firefox.desktop,thunar.desktop,conkyzen.desktop,org.gnome.DiskUtility.desktop,org.gnome.baobab.desktop,grsync.desktop,stacer.desktop,gitahead.desktop,geany.desktop,org.gnome.Meld.desktop
-recent=org.gnome.Meld.desktop,variety.desktop,org.gnome.DiskUtility.desktop,org.manjaro.pamac.manager.desktop,plank.desktop,xfce-settings-manager.desktop,nm-connection-editor.desktop,pavucontrol.desktop,org.gnome.Logs.desktop,xfce4-session-logout.desktop,geany.desktop,Alacritty.desktop,grub-customizer.desktop,xfce-keyboard-settings.desktop,org.flameshot.Flameshot.desktop
+recent=xfce-workspaces-settings.desktop,xfce-settings-manager.desktop,archlinux-betterlockscreen.desktop,thunar.desktop,xfce-ui-settings.desktop,xfce-session-settings.desktop,org.manjaro.pamac.manager.desktop,org.gnome.FontManager.desktop,org.gnome.Evince.desktop,archlinux-tweak-tool.desktop,ca.desrt.dconf-editor.desktop,org.gnome.baobab.desktop,org.gnome.DiskUtility.desktop,mintstick.desktop,xfce-keyboard-settings.desktop
 button-title=ArcoLinux\ \ 
 button-icon=start-here-arcolinux
 button-single-row=false
@@ -25,7 +25,7 @@ stay-on-focus-out=false
 profile-shape=0
 confirm-session-command=true
 menu-width=410
-menu-height=583
+menu-height=480
 menu-opacity=80
 command-settings=xfce4-settings-manager
 show-command-settings=false

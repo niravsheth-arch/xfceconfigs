@@ -10,8 +10,13 @@ alias cpgit="cp -af ~/.config/* ~/data/niravsheth-arch-git/xfceconfigs/config/"
 alias cpbashgit="cp ~/.bashrc-personal .zshrc-personal ~/data/niravsheth-arch-git/xfceconfigs/"
 
 # history
-export HISTSIZE=1500 #bash history size
+export HISTSIZE=3500 #bash history size
 PROMPT_COMMAND='history -a' #store bash history immediately
 export HISTCONTROL=ignoredups:erasedups #don't save lines matching the previous entry
 export HISTIGNORE="ls:alias:clear:exit:update:skel:bupskel:ssn:history" #ignore specific commands
 export HISTTIMEFORMAT="%h %d %H:%M:%S " #add date and time to history
+
+# sprunge #
+sprunge() {
+curl -F 'sprunge=<-' http://sprunge.us
+}
