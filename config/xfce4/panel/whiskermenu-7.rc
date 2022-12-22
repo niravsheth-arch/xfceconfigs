@@ -1,5 +1,5 @@
 favorites=archlinux-tweak-tool.desktop,firefox.desktop,thunar.desktop,conkyzen.desktop,org.gnome.DiskUtility.desktop,org.gnome.baobab.desktop,grsync.desktop,stacer.desktop,gitahead.desktop,geany.desktop,org.gnome.Meld.desktop
-recent=xfce-workspaces-settings.desktop,xfce-settings-manager.desktop,archlinux-betterlockscreen.desktop,thunar.desktop,xfce-ui-settings.desktop,xfce-session-settings.desktop,org.manjaro.pamac.manager.desktop,org.gnome.FontManager.desktop,org.gnome.Evince.desktop,archlinux-tweak-tool.desktop,ca.desrt.dconf-editor.desktop,org.gnome.baobab.desktop,org.gnome.DiskUtility.desktop,mintstick.desktop,xfce-keyboard-settings.desktop
+recent=quick-system-info.desktop,archlinux-tweak-tool.desktop,xfce-workspaces-settings.desktop,xfce-settings-manager.desktop,archlinux-betterlockscreen.desktop,thunar.desktop,xfce-ui-settings.desktop,xfce-session-settings.desktop,org.manjaro.pamac.manager.desktop,org.gnome.FontManager.desktop,org.gnome.Evince.desktop,ca.desrt.dconf-editor.desktop,org.gnome.baobab.desktop,org.gnome.DiskUtility.desktop,mintstick.desktop
 button-title=ArcoLinux\ \ 
 button-icon=start-here-arcolinux
 button-single-row=false
